@@ -1,6 +1,9 @@
+import './App.css';
+import Tools from './components/Tools';
+
 function App() {
   return (
-    <p>Clear</p>
+    <Tools />
   );
 }
 
